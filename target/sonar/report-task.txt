@@ -1,0 +1,6 @@
+projectKey=com.BikkadIT:JacksonApi
+serverUrl=http://localhost:9000
+serverVersion=8.9.10.61524
+dashboardUrl=http://localhost:9000/dashboard?id=com.BikkadIT%3AJacksonApi
+ceTaskId=AYvxUgBD3V3amDPQMNZO
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYvxUgBD3V3amDPQMNZO
